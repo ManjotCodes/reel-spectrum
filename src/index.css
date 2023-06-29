@@ -8,6 +8,6 @@ html,body,#root,.App{
 }
 footer{
   color:antiquewhite;
-  text-align:"center";
-  padding-bottom: 35;
+  text-align:center;
+  padding-bottom: 35px;
 }
